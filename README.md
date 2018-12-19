@@ -4,7 +4,7 @@
 
 ## BioDeep workflow
 
-![](./images/workflows.png)
+![](user-guide/images/workflows.png)
 
 + [MetaDeco](./metadeco)
 + [MetAnno](./metanno)
@@ -16,4 +16,4 @@
 
 > + 1.BioNovoGene. BioDeep/mzXML-web: BioDeep m/z math module. (2018). doi:10.5281/zenodo.1406730 [![DOI](https://zenodo.org/badge/145670434.svg)](https://zenodo.org/badge/latestdoi/145670434)
 
-![](logo@2x_2.png)
+![](user-guide/logo@2x_2.png)
