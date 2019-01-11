@@ -15,6 +15,7 @@
 如果你在使用了BioDeep<sup>TM</sup>之后，认为BioDeep对您的工作有帮助，您可以在您的论文中引用：
 
 > + 1.BioNovoGene. BioDeep/mzXML-web: BioDeep m/z math module. (2018). doi:10.5281/zenodo.1406730 <a href="https://zenodo.org/badge/latestdoi/145670434"><img src="https://zenodo.org/badge/145670434.svg" alt="DOI" style="width: 200px;"></a>
+> + 2.BioNovoGene. BioDeep/KEGG.molDraw: 2D Molecule Structure Drawer for KEGG KCF Model. (2019). doi:10.5281/zenodo.2532222 <a href="https://doi.org/10.5281/zenodo.2532222"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.2532222.svg" alt="DOI" style="width: 200px;"></a>
 
 ![](user-guide/logo@2x_2.png)
 
