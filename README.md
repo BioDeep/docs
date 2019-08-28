@@ -7,7 +7,7 @@
 <br/>
 <br/>
 
-![](user-guide/images/workflows.png)
+![](images/workflows.png)
 
 <br/>
 <br/>
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-![](user-guide/logo@2x_2.png)
+![](logo@2x_2.png)
 
 <br/>
 <br/>
@@ -40,4 +40,4 @@
 2. 通过下面的Github页面进行问题反馈以及新功能请求(会需要您注册一个github账号，但是好处是您可以及时的跟踪您的问题解决进度)：
 > https://github.com/BioDeep/docs/issues
 
-下载[BioDeep教程.pdf](user-guide/Biodeep_Turotials.pdf)
+下载[BioDeep教程.pdf](Biodeep_Turotials.pdf)
